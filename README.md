@@ -5,7 +5,7 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Additional Info](#additional-info)
-- [Live Link](#Live Link)
+- [Live Link](#Live-Link)
     
 ## Description:
     A small webpage that details my skills and hopfully helps you get to know a bit about me.
